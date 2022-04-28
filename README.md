@@ -12,7 +12,7 @@
 
 ## 🌐 Link
 
-<a href="https://shishir-goggle.netlify.app/" target="_blank">shishir-goggle.netlify.app/</a>
+<a href="https://shishir-goggle.netlify.app/" target="_blank">shishir-goggle.netlify.app</a>
 
 ## 🏃‍♂️ Run app
 ### `npm start`
